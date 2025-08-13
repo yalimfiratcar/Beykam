@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\firat\\OneDrive\\Masaüstü\\BeykamBackend\\BeykamBackend\\BeykamBackend.csproj": {}
+    "C:\\Users\\firat\\OneDrive\\Masaüstü\\Beykam\\BeykamBackend\\BeykamBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\firat\\OneDrive\\Masaüstü\\BeykamBackend\\BeykamBackend\\BeykamBackend.csproj": {
+    "C:\\Users\\firat\\OneDrive\\Masaüstü\\Beykam\\BeykamBackend\\BeykamBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\firat\\OneDrive\\Masaüstü\\BeykamBackend\\BeykamBackend\\BeykamBackend.csproj",
+        "projectUniqueName": "C:\\Users\\firat\\OneDrive\\Masaüstü\\Beykam\\BeykamBackend\\BeykamBackend.csproj",
         "projectName": "BeykamBackend",
-        "projectPath": "C:\\Users\\firat\\OneDrive\\Masaüstü\\BeykamBackend\\BeykamBackend\\BeykamBackend.csproj",
+        "projectPath": "C:\\Users\\firat\\OneDrive\\Masaüstü\\Beykam\\BeykamBackend\\BeykamBackend.csproj",
         "packagesPath": "C:\\Users\\firat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\firat\\OneDrive\\Masaüstü\\BeykamBackend\\BeykamBackend\\obj\\",
+        "outputPath": "C:\\Users\\firat\\OneDrive\\Masaüstü\\Beykam\\BeykamBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

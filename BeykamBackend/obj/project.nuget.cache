@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m9lYB12P/fs=",
+  "dgSpecHash": "YRLw9M82bns=",
   "success": true,
-  "projectFilePath": "C:\\Users\\firat\\OneDrive\\Masaüstü\\BeykamBackend\\BeykamBackend\\BeykamBackend.csproj",
+  "projectFilePath": "C:\\Users\\firat\\OneDrive\\Masaüstü\\Beykam\\BeykamBackend\\BeykamBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firat\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\firat\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
